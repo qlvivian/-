@@ -8,5 +8,7 @@ Jenkins+TestNg+ExtentReport实现自助式接口测试一条龙
 
 二、TestNg自动化测试框架
 eclipse下testng框架搭建和它的使用方法网上有大量资料，自己写了几个@test案例：
-![@Test](https://github.com/qlvivian/Jenkins-TestNg-AutoTeat/blob/master/resources/pages/AutoTestNG20200509160933.jpg)
-![@Test](https://github.com/qlvivian/Jenkins-TestNg-AutoTeat/blob/master/resources/pages/AutoTestNG20200509163218.jpg)
+
+![testcase](https://github.com/qlvivian/Jenkins-TestNg-AutoTeat/blob/master/resources/pages/AutoTestNG20200509160933.jpg)
+
+![testcase](https://github.com/qlvivian/Jenkins-TestNg-AutoTeat/blob/master/resources/pages/AutoTestNG20200509163218.jpg)
